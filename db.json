@@ -1,0 +1,45 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "img": "macbook.jpg",
+         "title": "Apple Macbook Pro 13",
+         "count": 1,
+         "price": 90000,
+         "priceTotal": 90000
+      },
+
+      {
+         "id": 2,
+         "img": "apple-watch.jpg",
+         "title": "Apple watch",
+         "count": 1,
+         "price": 29000,
+         "priceTotal": 29000
+      },
+      {
+         "id": 4,
+         "img": "iphone15-proMax.jpg",
+         "title": "Apple IPhone 15 Pro Max",
+         "count": 1,
+         "price": 150000,
+         "priceTotal": 150000
+      },
+      {
+         "id": 5,
+         "img": "macbook-pro14.jpg",
+         "title": "Apple MacBook Pro 14",
+         "count": 1,
+         "price": 140000,
+         "priceTotal": 140000
+      },
+      {
+         "id": 6,
+         "img": "iphone10R.jpg",
+         "title": "Apple IPhone 10R",
+         "count": 1,
+         "price": 40000,
+         "priceTotal": 40000
+      }
+   ]
+}
